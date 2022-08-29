@@ -16,8 +16,9 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html", title: "Home Change"}
-  - {file: "README.md", title: "About Me"}
+  - {file: "Oluwaleke_Oni_CV", title: "Resume", icon: home}
+  - {title: "Profile", url: https://oluwaleke.github.io/Oluwaleke/}
+  - {title: "About Me", url: https://sites.google.com/view/oluwalekeoni/home?authuser=0}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:oluwalekeoni@gmail.com"}
