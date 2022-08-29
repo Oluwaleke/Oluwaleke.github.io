@@ -16,7 +16,7 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "/Oluwaleke_Oni_CV", title: "Resume", icon: home}
+  - {file: "/Oluwaleke_Oni_CV.docx", title: "Resume", icon: home}
   - {title: "Profile", url: "https://oluwaleke.github.io/Oluwaleke/"}
   - {title: "About Me", url: "https://sites.google.com/view/oluwalekeoni/home?authuser=0"}
 
