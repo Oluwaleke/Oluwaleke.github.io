@@ -18,9 +18,7 @@ minimal: false             # use a dark header
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {title: "Profile", url: "https://oluwaleke.github.io/Oluwaleke/"}
   - {title: "About Me", url: "https://sites.google.com/view/oluwalekeoni/home?authuser=0"}
-  - {file: "Oluwaleke_Oni_CV.docx",title: "ME"}
-
-  #- {title: "ME", file: "profile.md"}
+  - {title: "ME", file: "profile.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:oluwalekeoni@gmail.com"}
