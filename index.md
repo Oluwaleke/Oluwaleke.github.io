@@ -10,10 +10,13 @@ My other projects: [github.com/Oluwaleke](https://github.com/Oluwaleke)
 
 Website: [google.com/view/oluwalekeoni/home](https://sites.google.com/view/oluwalekeoni/home)
 
+
 - 🔭 I’m currently working on exploring child malnutrition in Africa 
 - 🌱 I’m currently learning some visualization tools
 - 👯 I’m looking to collaborate on the child malnutrition project
 - 💬 Ask me about ... Data Science and Data visualization
-- 📫 How to reach me: [email] (oluwalekeoni@gmail.com) , [Linkedln] (https://www.linkedin.com/in/oluwaleke-enoch-oni-1b788799)
+- 📫 How to reach me: 
+     email: oluwalekeoni@gmail.com  
+     Linkedln: https://www.linkedin.com/in/oluwaleke-enoch-oni-1b788799
 - ⚡ Fun fact: Family, Music and God
 
