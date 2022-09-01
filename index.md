@@ -15,8 +15,9 @@ Website: [google.com/view/oluwalekeoni/home](https://sites.google.com/view/oluwa
 - 🌱 I’m currently learning some visualization tools
 - 👯 I’m looking to collaborate on the child malnutrition project
 - 💬 Ask me about ... Data Science and Data visualization
-- 📫 How to reach me: 
+- 📫 How to reach me 
      email: oluwalekeoni@gmail.com  
      Linkedln: https://www.linkedin.com/in/oluwaleke-enoch-oni-1b788799
+     
 - ⚡ Fun fact: Family, Music and God
 
