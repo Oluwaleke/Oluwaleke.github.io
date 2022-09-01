@@ -19,5 +19,5 @@ Website: [google.com/view/oluwalekeoni/home](https://sites.google.com/view/oluwa
      email: oluwalekeoni@gmail.com  
      Linkedln: https://www.linkedin.com/in/oluwaleke-enoch-oni-1b788799
      
-- ⚡ Fun fact: Family, Music and God
+- ⚡ Fun fact: Family, Music and God.
 
